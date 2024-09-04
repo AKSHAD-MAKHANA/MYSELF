@@ -1,10 +1,34 @@
-- 👋 Hi, I’m @AKSHAD-MAKHANA
-- 👀 I’m studying B.tech at SANJIVANI UNIVERSITY, KOPERGOAN.
-- 🌱 I’m currently learning COMPUTER SCIENCE AND ENGINEERING WITH SPECILIZATION IN 'AI DATA SCIENCE'
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi, I'm AKSHAD MAKHANA 👋
+
+## About Me
+
+- 👀 I’m a first-year BTech student in AI and Data Science.
+- 📍 at SANJIVANI UNIVERSITY, KOPERGOAN 
+- 🌱 I’m learning Python, ADP, and Design Thinking.
+- 💞️ I’m interested in beginner data science projects and learning opportunities.
+- 📫 Reach me at: makhanaakshad07@gmail.com or akshad.makhana24@sanjivani.edu.in
+- 😄 Pronouns: he/him 
+- ⚡ Fun fact: I love exploring new things, learning DSA...
+
+## Skills
+
+- **Programming**: Python
+
+## Projects
+
+Currently working on a project on the topic " A BUS TRACKING APPLICATION"
+
+## Get In Touch
+
+Connect with me on,
+-LinkedIn:
+-Instagram:
+
+
+
+looking forward to learning, exploring and collaborating!
+
+
 
 <!---
 AKSHAD-MAKHANA/AKSHAD-MAKHANA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
