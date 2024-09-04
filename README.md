@@ -21,8 +21,8 @@ Currently working on a project on the topic " A BUS TRACKING APPLICATION"
 ## Get In Touch
 
 Connect with me on,
--LinkedIn:
--Instagram:
+-LinkedIn: 
+-Instagram: @makhanakshad
 
 
 
