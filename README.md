@@ -20,13 +20,13 @@ Currently working on a project on the topic " A BUS TRACKING APPLICATION"
 
 ## Get In Touch
 
-Connect with me on,
--LinkedIn: 
--Instagram: @makhanakshad
+**Connect with me on,**
+-**LinkedIn:** 
+-**Instagram:** @makhanakshad
 
 
 
-looking forward to learning, exploring and collaborating!
+# looking forward to learning, exploring and collaborating!
 
 
 
