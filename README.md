@@ -22,7 +22,7 @@ Currently working on a project on the topic " A BUS TRACKING APPLICATION"
 
 **Connect with me on,**
 
--**LinkedIn:** 
+-**LinkedIn:** www.linkedin.com/in/akshad-viresh-makhana-006563326
 
 -**Instagram:** @makhanakshad
 
