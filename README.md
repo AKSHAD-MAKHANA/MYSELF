@@ -8,7 +8,7 @@
 - 💞️ I’m interested in beginner data science projects and learning opportunities.
 - 📫 Reach me at: makhanaakshad07@gmail.com or akshad.makhana24@sanjivani.edu.in
 - 😄 Pronouns: he/him 
-- ⚡ Fun fact: I love exploring new things, learning DSA...
+- ⚡ Fun fact: I love exploring new things, listining music, etc.
 
 ## Skills
 
